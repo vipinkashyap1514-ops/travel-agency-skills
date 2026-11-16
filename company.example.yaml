@@ -1,0 +1,13 @@
+# Copy to company.yaml (git-ignored) and fill in your own values.
+company_name: "Example Travels Pvt Ltd"
+city: "YOUR_CITY"
+owner_title: "Founder"
+package_min_margin_percent: "YOUR_VALUE"
+flat_fee_flight_dummy_reservation: "YOUR_VALUE"
+flat_fee_hotel_dummy_reservation: "YOUR_VALUE"
+min_margin_flight_domestic: "YOUR_VALUE"
+min_margin_flight_international: "YOUR_VALUE"
+fx_buffer_per_unit: "YOUR_VALUE"
+late_payment_interest: "YOUR_VALUE"
+primary_supplier: "Your B2B supplier"
+approval_rule: "A human approves every payment, ticket, and customer message"

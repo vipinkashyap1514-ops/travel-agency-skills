@@ -1,0 +1,11 @@
+.DS_Store
+company.yaml
+.env
+.env.*
+*.pem
+*.key
+*.log
+node_modules/
+__pycache__/
+review-queue/
+memory/
